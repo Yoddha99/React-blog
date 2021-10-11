@@ -2,6 +2,7 @@
 
 **To Run:**
 
+    git clone https://github.com/Yoddha99/React-blog.git
     cd dojo-blog
     npm install
     npm run start
